@@ -100,7 +100,7 @@
 
 ## Kotlin 
 
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，🚧 WIP
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   客户端和快应用开发中
 
 ## Makefile 
 
