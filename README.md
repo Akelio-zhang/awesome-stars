@@ -22,6 +22,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [TeX](#tex)
+  - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -174,6 +175,10 @@
 - [ongardie/dissertation](https://github.com/ongardie/dissertation) - Sources for my PhD dissertation on the Raft consensus algorithm
 - [CasperVector/pkuthss](https://github.com/CasperVector/pkuthss) - LaTeX template for dissertations in Peking University
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
+
+## TypeScript 
+
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 
 ## Vim script 
 
