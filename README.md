@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics.
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -102,7 +103,7 @@
 
 ## Kotlin 
 
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   客户端和快应用开发中
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   快应用开发中
 
 ## Makefile 
 
@@ -184,6 +185,7 @@
 
 ## TypeScript 
 
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 
 ## Vim script 
