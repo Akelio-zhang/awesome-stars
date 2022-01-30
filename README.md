@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [hunterhug/goa.c](https://github.com/hunterhug/goa.c) - 📚  中文书籍：数据结构和算法（Golang实现）Chinese Book
 - [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics.
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
