@@ -97,7 +97,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - Deploy a NextJS app to Github Pages with Github Actions.
+- [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - Deploy a Next.js app to Github Pages via Github Actions.
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
@@ -105,7 +105,7 @@
 
 ## Kotlin 
 
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   快应用开发中
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中
 
 ## Makefile 
 
