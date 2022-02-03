@@ -151,7 +151,7 @@
 
 ## Rust 
 
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - RisingLight is an OLAP database system for educational purpose
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
