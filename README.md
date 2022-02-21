@@ -30,7 +30,7 @@
 - [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中
 - [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等
-- [alibaba/xquic](https://github.com/alibaba/xquic) - 
+- [alibaba/xquic](https://github.com/alibaba/xquic) - XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 - [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [yuandong-tian/scheduler2](https://github.com/yuandong-tian/scheduler2) - 
