@@ -118,6 +118,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 
 ## Makefile 
