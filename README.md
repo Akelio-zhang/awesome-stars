@@ -21,6 +21,7 @@
   - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -53,6 +54,8 @@
 
 ## Go 
 
+- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b+tree, inspired by SLM-DB in USENIX FAST ’19.
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
@@ -179,6 +182,8 @@
 
 ## Rust 
 
+- [rust-lib-project/rocksdb-rs](https://github.com/rust-lib-project/rocksdb-rs) - A port for rocksdb
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with typical examples, challenging exercises and small practical projects.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
@@ -210,6 +215,10 @@
 - [k8sli/kubeplay](https://github.com/k8sli/kubeplay) - Deploy kubernetes by kubespray in offline
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+## Swift 
+
+- [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 
 ## TeX 
 
