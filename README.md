@@ -183,7 +183,7 @@
 ## Rust 
 
 - [rust-lib-project/rocksdb-rs](https://github.com/rust-lib-project/rocksdb-rs) - A port for rocksdb
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with typical examples, challenging exercises and small practical projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
