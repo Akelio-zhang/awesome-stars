@@ -16,6 +16,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Others](#others)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -107,6 +108,7 @@
 
 ## JavaScript 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
@@ -163,6 +165,10 @@
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+## PowerShell 
+
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 
 ## Python 
 
