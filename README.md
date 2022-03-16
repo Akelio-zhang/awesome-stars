@@ -34,7 +34,6 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-- [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等
 - [alibaba/xquic](https://github.com/alibaba/xquic) - XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 - [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
@@ -60,6 +59,7 @@
 
 ## Go 
 
+- [liangmanlin/gootp](https://github.com/liangmanlin/gootp) - A go actor framework like erlang OTP! you can use this libary to build a game server.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
@@ -118,7 +118,7 @@
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [yuandong-tian/scheduler2](https://github.com/yuandong-tian/scheduler2) - 
 - [francisrstokes/super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
@@ -135,6 +135,7 @@
 
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
+- [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等
 
 ## Makefile 
 
@@ -199,7 +200,7 @@
 ## Rust 
 
 - [rust-lib-project/rocksdb-rs](https://github.com/rust-lib-project/rocksdb-rs) - A port for rocksdb
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
