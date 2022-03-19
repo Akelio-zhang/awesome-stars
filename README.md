@@ -200,7 +200,7 @@
 
 ## Rust 
 
-- [rust-lib-project/rocksdb-rs](https://github.com/rust-lib-project/rocksdb-rs) - A port for rocksdb
+- [rust-lib-project/calibur](https://github.com/rust-lib-project/calibur) - A port for rocksdb
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
@@ -248,6 +248,7 @@
 
 ## TypeScript 
 
+- [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue2 (🚀  WIP: tiptap2 and Vue3)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
