@@ -59,12 +59,13 @@
 
 ## Go 
 
+- [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
 - [liangmanlin/gootp](https://github.com/liangmanlin/gootp) - A go actor framework like erlang OTP! you can use this libary to build a game server.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
-- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b+tree, inspired by SLM-DB in USENIX FAST ’19.
+- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
