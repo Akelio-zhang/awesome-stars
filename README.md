@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
 - [liangmanlin/gootp](https://github.com/liangmanlin/gootp) - A go actor framework like erlang OTP! you can use this libary to build a game server.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
@@ -207,7 +208,7 @@
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
