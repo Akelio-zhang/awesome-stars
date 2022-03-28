@@ -35,7 +35,7 @@
 - [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [alibaba/xquic](https://github.com/alibaba/xquic) - XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
-- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html
+- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
 
@@ -213,7 +213,7 @@
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
