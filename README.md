@@ -65,7 +65,7 @@
 - [liangmanlin/gootp](https://github.com/liangmanlin/gootp) - A go actor framework like erlang OTP! you can use this libary to build a game server.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -83,7 +83,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
+- [fanux/sealos](https://github.com/fanux/sealos) - 以kubernetes为内核的云操作系统发行版，让云原生简单普及。3min 一键高可用装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
