@@ -48,7 +48,7 @@
 
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2218 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2227 LeetCode Problems (Weekly Update)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
@@ -166,7 +166,7 @@
 - [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [yougg/gonote](https://github.com/yougg/gonote) - Go语言语法详解笔记
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [KeKe-Li/For-learning-Go-Tutorial](https://github.com/KeKe-Li/For-learning-Go-Tutorial) - Introduction to beginners learn to go
 - [Frank-Ge/SEU-Friends-In-IT-Field](https://github.com/Frank-Ge/SEU-Friends-In-IT-Field) - 东南大学信息技术相关领域交流平台
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems
