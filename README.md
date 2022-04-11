@@ -51,7 +51,7 @@
 - [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2227 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2234 LeetCode Problems (Weekly Update)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
@@ -86,7 +86,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [fanux/sealos](https://github.com/fanux/sealos) - 以kubernetes为内核的云操作系统发行版，让云原生简单普及。3min 一键高可用装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
+- [fanux/sealos](https://github.com/fanux/sealos) - 以kubernetes为内核的云操作系统发行版，3min 一键高可用安装自定义kubernetes，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -221,7 +221,7 @@
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time insights.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
 - [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
