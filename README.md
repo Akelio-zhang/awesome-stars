@@ -197,10 +197,12 @@
 
 ## PowerShell 
 
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
