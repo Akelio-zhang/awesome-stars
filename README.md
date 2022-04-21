@@ -64,6 +64,7 @@
 
 ## Go 
 
+- [Glide-IM/GlideIM](https://github.com/Glide-IM/GlideIM) - A high performance, distributed, open source instant messaging app, write in Go.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
