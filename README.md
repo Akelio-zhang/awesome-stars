@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [Glide-IM/GlideIM](https://github.com/Glide-IM/GlideIM) - 分布式高性能 IM
@@ -87,7 +88,7 @@
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [heiyeluren/xmm](https://github.com/heiyeluren/xmm) - XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance.  XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [deb-sig/double-entry-generator](https://github.com/deb-sig/double-entry-generator) - Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi to Beancount).
@@ -168,7 +169,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
-- [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等
+- [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）、分布式系统（MIT6.824）等
 
 ## Makefile 
 
