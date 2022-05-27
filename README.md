@@ -78,7 +78,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [Glide-IM/GlideIM](https://github.com/Glide-IM/GlideIM) - 分布式高性能 IM
+- [Glide-IM/GlideIM](https://github.com/Glide-IM/GlideIM) - 分布式高性能 IM, 重构中: Glide-IM/glide
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
@@ -103,7 +103,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [labring/sealos](https://github.com/labring/sealos) - 以kubernetes为内核的云操作系统发行版，像用macOS一样实践云原生！
+- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os distribution,  practice cloud native like using macOS!
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -130,7 +130,7 @@
 ## Java 
 
 - [DTStack/Taier](https://github.com/DTStack/Taier) - 大数据平台-分布式任务调度系统
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - Friendly cloud monitor system. Custom Monitor, No Agent. Support website, ping, port, database, os. Alert and Notify.        易用友好的云监控系统。无需Agent，强大自定义监控能力。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，阈值告警，告警通知(邮件
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - Friendly Cloud Monitor System. Custom Monitor, No Agent. Support Website, Ping, Port, Database, OS, Middleware.        易用友好的云监控系统。无需Agent，强大自定义监控能力。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，阈值告警，告警通知(邮件微信钉钉飞书
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -267,7 +267,7 @@
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
@@ -317,6 +317,8 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
