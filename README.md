@@ -132,7 +132,7 @@
 ## Java 
 
 - [DTStack/Taier](https://github.com/DTStack/Taier) - 大数据平台-分布式任务调度系统
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - Friendly Cloud Monitor System. Custom Monitor, No Agent. Support Website, Ping, Port, Database, OS, Middleware.        易用友好的云监控系统。无需Agent，强大自定义监控能力。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，阈值告警，告警通知(邮件微信钉钉飞书
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - Friendly Cloud Monitor System. Custom Monitor, Agentless. Support Website, Ping, Port, Database, OS, Middleware.        易用友好的云监控系统。无需Agent，强大自定义监控能力。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，阈值告警，告警通知(邮件微信钉钉飞
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
