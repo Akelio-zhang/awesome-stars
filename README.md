@@ -61,7 +61,7 @@
 - [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2290 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2296 LeetCode Problems (Weekly Update)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
@@ -81,7 +81,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [Glide-IM/GlideIM](https://github.com/Glide-IM/GlideIM) - 分布式高性能 IM, 重构中: Glide-IM/glide
+- [glide-im/GlideIM](https://github.com/glide-im/GlideIM) - 分布式高性能 IM, 重构中: Glide-IM/glide
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
