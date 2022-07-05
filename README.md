@@ -62,7 +62,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2322 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2329 LeetCode Problems (Weekly Update)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [1History/1History](https://github.com/1History/1History) - All your history in one file.
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
