@@ -108,7 +108,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
+- [labring/sealos](https://github.com/labring/sealos) - Let's sealos run kubernetes:v1.24.2!
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -337,7 +337,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-- [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue2 (🚀  WIP: tiptap2 and Vue3)
+- [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue2 (🚀  tiptap2 and Vue3 is in alpha)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
