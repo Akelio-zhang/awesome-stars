@@ -191,6 +191,7 @@
 
 ## Makefile 
 
+- [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 
