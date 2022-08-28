@@ -352,6 +352,7 @@
 
 ## TypeScript 
 
+- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension
