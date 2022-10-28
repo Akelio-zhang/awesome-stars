@@ -150,6 +150,7 @@
 
 ## Java 
 
+- [bytedance/bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed, high-performance data integration engine and provides global data integration solutions in batch, streaming, and incremental scenarios. At present, BitSail has been widely us
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
