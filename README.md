@@ -98,7 +98,7 @@
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [glide-im/GlideIM](https://github.com/glide-im/GlideIM) - 请转到 glide-im/glide
@@ -159,7 +159,7 @@
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:pencil: 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等
-- [DTStack/Taier](https://github.com/DTStack/Taier) - 大数据平台-分布式任务调度系统
+- [DTStack/Taier](https://github.com/DTStack/Taier) - Taier is a big data development platform for submission, scheduling, operation and maintenance, and indicator information display
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
