@@ -307,7 +307,7 @@
 
 ## Rust 
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend
