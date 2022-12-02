@@ -79,6 +79,7 @@
 
 ## Go 
 
+- [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ksco/rvld](https://github.com/ksco/rvld) - A minimum RV64GC linker for educational purposes.
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
@@ -128,7 +129,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes. Build your own cloud with one click！
+- [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications.
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -157,6 +158,7 @@
 
 ## Java 
 
+- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java
 - [bytedance/bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every d
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
@@ -310,6 +312,8 @@
 
 ## Rust 
 
+- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
+- [rcore-os/RVM](https://github.com/rcore-os/RVM) - Rcore Virtual Machine
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
