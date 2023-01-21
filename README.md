@@ -325,7 +325,7 @@
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP)
 - [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [rcore-os/RVM](https://github.com/rcore-os/RVM) - Rcore Virtual Machine
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
