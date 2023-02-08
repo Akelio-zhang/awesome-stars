@@ -148,6 +148,7 @@
 
 ## HTML 
 
+- [cargo-youth/ToolDiy](https://github.com/cargo-youth/ToolDiy) - 一本工具指南和开箱即用配置，旨在让大家选用和上手合适的工具。
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
@@ -301,6 +302,7 @@
 
 ## Python 
 
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [xprobe-inc/xorbits](https://github.com/xprobe-inc/xorbits) - Scalable Python data science, in an API compatible & lightning fast way.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
@@ -413,7 +415,7 @@
 
 ## TypeScript 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
