@@ -268,7 +268,7 @@
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
 - [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
-- [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 go 后端程序员宝典：讲解了go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
+- [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 go 后端程序员宝典：go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [yougg/gonote](https://github.com/yougg/gonote) - Go语言语法详解笔记
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
@@ -310,7 +310,7 @@
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库资源归集、整理自动化工具
+- [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools) - NAS媒体库管理工具
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mlc-ai/mlc-zh](https://github.com/mlc-ai/mlc-zh) - 
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
