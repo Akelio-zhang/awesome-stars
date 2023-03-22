@@ -44,7 +44,6 @@
 - [Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081) - 🎶 MIT 6.S081 Operating System Engineering (Now known as 6.1810)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -412,6 +411,7 @@
 ## Swift 
 
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 
 ## TeX 
