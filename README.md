@@ -349,6 +349,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [flaribbit/bakadict](https://github.com/flaribbit/bakadict) - 离线的命令行日语词典
 - [Ko-oK-OS/xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) - 🦀️ Re-implement xv6-riscv in Rust
