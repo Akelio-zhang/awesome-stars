@@ -43,7 +43,6 @@
 
 - [Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
 - [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
-- [Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081) - 🎶 MIT 6.S081 Operating System Engineering (Now known as 6.1810)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
@@ -87,6 +86,7 @@
 
 ## Go 
 
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
