@@ -131,7 +131,7 @@
 - [liangmanlin/gootp](https://github.com/liangmanlin/gootp) - A go actor framework like erlang OTP! you can use this libary to build a game server.
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [rosedblabs/lotusdb](https://github.com/rosedblabs/lotusdb) - Fast k/v storage compatible with lsm tree and b+tree, inspired by SLM-DB in USENIX FAST ’19.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -414,7 +414,7 @@
 
 - [weijiew/codestep](https://github.com/weijiew/codestep) - 🍨 写点笔记、踩坑记录
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
-- [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) - serverchan running on openwrt
+- [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) - A plugin for OpenWRT routers to push various information to a mobile phone via WeChat or Telegram. Supported services:
 - [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
