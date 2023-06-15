@@ -334,7 +334,7 @@
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [xprobe-inc/mars](https://github.com/xprobe-inc/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mlc-ai/mlc-zh](https://github.com/mlc-ai/mlc-zh) - 
