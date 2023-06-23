@@ -64,7 +64,7 @@
 ## C++ 
 
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
-- [apache/incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+- [apache/kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
