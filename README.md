@@ -380,7 +380,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀SQL stream processing with Postgres-like experience. 🪄More than a modern alternative to Apache Flink.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
