@@ -333,9 +333,9 @@
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-- [xprobe-inc/xorbits](https://github.com/xprobe-inc/xorbits) - Scalable Python data science, in an API compatible & lightning fast way.
+- [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits) - Scalable Python data science, in an API compatible & lightning fast way.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [xprobe-inc/mars](https://github.com/xprobe-inc/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
+- [xorbitsai/mars](https://github.com/xorbitsai/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
