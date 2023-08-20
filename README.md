@@ -278,6 +278,7 @@
 - [antfu/use](https://github.com/antfu/use) - Things I am using
 - [Akelio-zhang/awesome-stars](https://github.com/Akelio-zhang/awesome-stars) - My Awesome List
 - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+- [weijiew/everystep](https://github.com/weijiew/everystep) - 🍨 写点笔记、踩坑记录
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023春夏季开源操作系统训练营
@@ -429,7 +430,6 @@
 
 ## Shell 
 
-- [weijiew/codestep](https://github.com/weijiew/codestep) - 🍨 写点笔记、踩坑记录
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) - A plugin for OpenWRT routers to push various information to a mobile phone via WeChat or Telegram. Supported services:
 - [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
