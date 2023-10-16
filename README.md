@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [jglim/IdentityFont](https://github.com/jglim/IdentityFont) - Reconstruction of the LTAIdentity font, a Humanistic sans-serif font that is commonly found in Singapore's public transport graphics.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
