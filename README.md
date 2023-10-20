@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [jglim/IdentityFont](https://github.com/jglim/IdentityFont) - Reconstruction of the LTAIdentity font, a Humanistic sans-serif font that is commonly found in Singapore's public transport graphics.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
