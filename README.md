@@ -78,7 +78,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2912 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2920 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -109,7 +109,7 @@
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ksco/rvld](https://github.com/ksco/rvld) - Learn how to write a minimal working linker from scratch
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
@@ -159,7 +159,6 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -281,6 +280,7 @@
 
 ## Others 
 
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [jglim/IdentityFont](https://github.com/jglim/IdentityFont) - Reconstruction of the LTAIdentity font, a Humanistic sans-serif font that is commonly found in Singapore's public transport graphics.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
@@ -419,7 +419,7 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing redefined 🌊: your scalable, reliable, and PostgreSQL-compatible streaming database in the cloud. ☁️
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -516,6 +516,7 @@
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## Vim Script 
