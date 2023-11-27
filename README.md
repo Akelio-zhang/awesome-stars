@@ -81,7 +81,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2941 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2949 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -362,6 +362,7 @@
 
 ## Python 
 
+- [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
