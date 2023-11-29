@@ -203,7 +203,7 @@
 
 ## Handlebars 
 
-- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
+- [rainjw/everystep](https://github.com/rainjw/everystep) - 🚀 写点笔记、踩坑记录
 
 ## Java 
 
