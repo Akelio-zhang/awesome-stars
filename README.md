@@ -22,6 +22,7 @@
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [OCaml](#ocaml)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -223,7 +224,7 @@
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:fire:推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
 - [DTStack/Taier](https://github.com/DTStack/Taier) - Taier is a big data development platform for submission, scheduling, operation and maintenance, and indicator information display
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -291,6 +292,10 @@
 ## OCaml 
 
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
+
+## Objective-C 
+
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度，小牛和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text
 
 ## Others 
 
