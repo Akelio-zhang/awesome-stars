@@ -206,7 +206,7 @@
 
 ## Handlebars 
 
-- [rainjw/everystep](https://github.com/rainjw/everystep) - 🚀 写点笔记、踩坑记录
+- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
 
 ## Java 
 
@@ -447,7 +447,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [rust-lib-project/calibur](https://github.com/rust-lib-project/calibur) - A port for rocksdb
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
