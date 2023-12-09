@@ -253,7 +253,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
-- [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 后端宝典》：基础语法，并发模式，go runtime 实现原理 ，语言项目经验。
+- [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [yuandong-tian/scheduler2](https://github.com/yuandong-tian/scheduler2) - 
