@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
 - [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
