@@ -21,6 +21,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -83,7 +84,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2999 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3003 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -202,7 +203,7 @@
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [taogen-docs/resources-of-learning](https://github.com/taogen-docs/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -296,6 +297,10 @@
 
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane's slide template for reveal-md
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
+
+## Nix 
+
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
 
 ## OCaml 
 
@@ -451,7 +456,7 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -487,7 +492,6 @@
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) - A plugin for OpenWRT routers to send various information notifications to a mobile phone via WeChat or Telegram.
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
