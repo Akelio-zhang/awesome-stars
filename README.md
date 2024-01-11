@@ -219,6 +219,7 @@
 
 ## Java 
 
+- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
 - [DTStack/chunjun](https://github.com/DTStack/chunjun) - A data integration framework
@@ -296,7 +297,7 @@
 ## Markdown 
 
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane's slide template for reveal-md
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 
 ## Nix 
 
