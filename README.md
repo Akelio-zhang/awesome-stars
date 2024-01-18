@@ -19,6 +19,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -71,6 +72,7 @@
 
 ## C++ 
 
+- [neil3d/50YearsOfRayTracing](https://github.com/neil3d/50YearsOfRayTracing) - 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB's BusTub system)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [xUhEngwAng/912-notes](https://github.com/xUhEngwAng/912-notes) - 清华大学计算机系考研专业课 (912) 笔记
@@ -289,6 +291,10 @@
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）、分布式系统（MIT6.824）等
+
+## Lua 
+
+- [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine
 
 ## Makefile 
 
