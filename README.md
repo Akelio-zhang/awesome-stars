@@ -15,7 +15,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
-- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -216,10 +215,6 @@
 ## Hack 
 
 - [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris) - 计算机系统要素，从零开始构建现代计算机
-
-## Handlebars 
-
-- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
 
 ## Java 
 
@@ -551,6 +546,7 @@
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
