@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [zuoyebang/bitalosdb](https://github.com/zuoyebang/bitalosdb) - Bitalosdb is a high-performance KV storage engine.
 - [kemingy/isite](https://github.com/kemingy/isite) - convert issues to a website
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
@@ -328,6 +329,7 @@
 
 ## Others 
 
+- [memorysafety/river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [u3u/rime](https://github.com/u3u/rime) - 我的 Rime 配置：只需简单几步即可将你的输入法切换到 Rime
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
