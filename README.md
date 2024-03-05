@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language
 - [zuoyebang/bitalosdb](https://github.com/zuoyebang/bitalosdb) - Bitalosdb is a high-performance KV storage engine.
 - [kemingy/isite](https://github.com/kemingy/isite) - convert issues to a website
