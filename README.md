@@ -454,6 +454,7 @@
 
 ## Rust 
 
+- [sql-benchmarks/tpctools](https://github.com/sql-benchmarks/tpctools) - Tools for generating TPC-* datasets
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
