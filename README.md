@@ -454,6 +454,7 @@
 
 ## Rust 
 
+- [yywe/yoursql](https://github.com/yywe/yoursql) - Your SQL database for learning purpose
 - [sql-benchmarks/tpctools](https://github.com/sql-benchmarks/tpctools) - Tools for generating TPC-* datasets
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -467,7 +468,7 @@
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [dancrossnyc/rxv64](https://github.com/dancrossnyc/rxv64) - xv6 OS
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
