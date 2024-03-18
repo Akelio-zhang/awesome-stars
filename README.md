@@ -15,6 +15,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
+- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -90,7 +91,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3077 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3087 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -225,6 +226,10 @@
 ## Hack 
 
 - [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris) - 计算机系统要素，从零开始构建现代计算机
+
+## Handlebars 
+
+- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
 
 ## Java 
 
@@ -529,7 +534,6 @@
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) - A plugin for OpenWRT routers to send various information notifications to a mobile phone via WeChat or Telegram.
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
@@ -578,7 +582,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
