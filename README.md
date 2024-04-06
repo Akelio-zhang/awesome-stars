@@ -536,6 +536,7 @@
 
 ## Shell 
 
+- [CH3NGYZ/tailscale-openwrt](https://github.com/CH3NGYZ/tailscale-openwrt) - tailscale on openwrt 一键部署脚本
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
@@ -575,6 +576,7 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [yusukebe/url-shortener](https://github.com/yusukebe/url-shortener) - Creating URL Shortener with Cloudflare Pages
