@@ -184,7 +184,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
-- [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value store written in Go, extremely fast, compatible with LSM tree and B+ tree, optimization of badger and bbolt.
+- [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [smallnest/dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
@@ -474,6 +474,7 @@
 
 ## Rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [yywe/yoursql](https://github.com/yywe/yoursql) - Your SQL database for learning purpose
 - [datafusion-contrib/tpctools](https://github.com/datafusion-contrib/tpctools) - Tools for generating TPC-* datasets
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
