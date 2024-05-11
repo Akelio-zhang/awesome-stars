@@ -351,6 +351,7 @@
 
 ## Others 
 
+- [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [u3u/rime](https://github.com/u3u/rime) - 我的 Rime 配置：只需简单几步即可将你的输入法切换到 Rime
