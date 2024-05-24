@@ -478,6 +478,7 @@
 
 ## Rust 
 
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [ambaxter/bbolt-rs](https://github.com/ambaxter/bbolt-rs) - Port of bbolt in Rust
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
