@@ -320,6 +320,7 @@
 
 ## Lua 
 
+- [gin-18/nvim](https://github.com/gin-18/nvim) - my neovim config for web development.
 - [ejoy/vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine
 
