@@ -358,6 +358,7 @@
 
 ## Others 
 
+- [Xuanwo/learn-data-lake-from-storage](https://github.com/Xuanwo/learn-data-lake-from-storage) - Learn Data Lake From Storage Layer.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [RanceJen/Japan-restaurant](https://github.com/RanceJen/Japan-restaurant) - 誠實講餐廳，拒絕瞎捧
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
