@@ -408,7 +408,7 @@
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
 - [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [yougg/gonote](https://github.com/yougg/gonote) - Go语言语法详解笔记
 - [KeKe-Li/For-learning-Go-Tutorial](https://github.com/KeKe-Li/For-learning-Go-Tutorial) - Introduction to beginners learn to go
 - [Frank-Ge/SEU-Friends-In-IT-Field](https://github.com/Frank-Ge/SEU-Friends-In-IT-Field) - 东南大学信息技术相关领域交流平台
