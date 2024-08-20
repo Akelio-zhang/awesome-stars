@@ -12,7 +12,7 @@
 - [CSS](#css)
 - [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
-- [Earthly](#earthly)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
@@ -116,7 +116,7 @@
 
 - [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 
-## Earthly 
+## Emacs Lisp 
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
