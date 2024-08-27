@@ -97,7 +97,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3263 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3267 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -418,7 +418,7 @@
 - [hedengcheng/tech](https://github.com/hedengcheng/tech) - programming, database, distributed system
 - [mayf09/6.S081-2020-video-subtitles](https://github.com/mayf09/6.S081-2020-video-subtitles) - 为麻省理工操作系统课程（6.S081/Fall 2020）视频，提供中英文字幕。
 - [pleasewhy/xv6-book-2020-Chinese](https://github.com/pleasewhy/xv6-book-2020-Chinese) - MIT 6.S801 xv6 book 2020版 中文翻译
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) - A collection of my undergraduate projects
 - [jiegec/Projects](https://github.com/jiegec/Projects) - A summarize of my projects.
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
