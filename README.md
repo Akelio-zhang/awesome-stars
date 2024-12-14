@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -42,6 +43,10 @@
 - [Typst](#typst)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Astro 
+
+- [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
 
 ## Batchfile 
 
