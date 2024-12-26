@@ -495,6 +495,7 @@
 
 ## Rust 
 
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
 - [XiangpengHao/congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree)
