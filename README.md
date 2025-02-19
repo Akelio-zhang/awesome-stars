@@ -454,6 +454,8 @@
 
 ## Python 
 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [itlubber/scorecardpipeline](https://github.com/itlubber/scorecardpipeline) - scorecardpipeline封装了toad、scorecardpy、optbinning等评分卡建模相关组件，API风格与sklearn高度一致，支持pipeline式端到端评分卡建模、模型报告输出、导出PMML文件、超参数搜索等
 - [Akimio521/AutoFilm](https://github.com/Akimio521/AutoFilm) - 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
@@ -507,6 +509,7 @@
 
 ## Rust 
 
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for "Lessons Learned from Building a Query Optimizer" blog series
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
@@ -678,7 +681,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2)
