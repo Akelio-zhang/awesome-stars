@@ -260,6 +260,7 @@
 
 ## Java 
 
+- [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library
 - [sourcebuddy/sourcebuddy](https://github.com/sourcebuddy/sourcebuddy) - Java source code compiler facade for the Java JDK built-in Java compiler
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
@@ -517,6 +518,7 @@
 
 ## Rust 
 
+- [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for "Lessons Learned from Building a Query Optimizer" blog series
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
