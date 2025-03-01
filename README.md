@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ghaiklor/llvm-kaleidoscope](https://github.com/ghaiklor/llvm-kaleidoscope) - LLVM Tutorial: Kaleidoscope (Implementing a Language with LLVM)
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
@@ -463,6 +464,7 @@
 
 ## Python 
 
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [itlubber/scorecardpipeline](https://github.com/itlubber/scorecardpipeline) - scorecardpipeline封装了toad、scorecardpy、optbinning等评分卡建模相关组件，API风格与sklearn高度一致，支持pipeline式端到端评分卡建模、模型报告输出、导出PMML文件、超参数搜索等
@@ -700,7 +702,7 @@
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
