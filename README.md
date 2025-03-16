@@ -616,6 +616,7 @@
 
 ## Shell 
 
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [yuchanns/dotfiles](https://github.com/yuchanns/dotfiles) - one's dot files collection
 - [CH3NGYZ/tailscale-openwrt](https://github.com/CH3NGYZ/tailscale-openwrt) - tailscale on openwrt 一键部署脚本
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
