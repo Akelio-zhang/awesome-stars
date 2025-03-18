@@ -444,7 +444,7 @@
 - [pleasewhy/xv6-book-2020-Chinese](https://github.com/pleasewhy/xv6-book-2020-Chinese) - MIT 6.S801 xv6 book 2020版 中文翻译
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) - A collection of my undergraduate projects
-- [jiegec/Projects](https://github.com/jiegec/Projects) - A summarize of my projects.
+- [jiegec/Projects](https://github.com/jiegec/Projects) - A summary of my projects
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
