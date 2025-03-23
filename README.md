@@ -246,6 +246,7 @@
 - [taogen-docs/resources-of-learning](https://github.com/taogen-docs/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
@@ -442,7 +443,6 @@
 - [hedengcheng/tech](https://github.com/hedengcheng/tech) - programming, database, distributed system
 - [mayf09/6.S081-2020-video-subtitles](https://github.com/mayf09/6.S081-2020-video-subtitles) - 为麻省理工操作系统课程（6.S081/Fall 2020）视频，提供中英文字幕。
 - [pleasewhy/xv6-book-2020-Chinese](https://github.com/pleasewhy/xv6-book-2020-Chinese) - MIT 6.S801 xv6 book 2020版 中文翻译
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [wangrunji0408/UndergraduateProjects](https://github.com/wangrunji0408/UndergraduateProjects) - A collection of my undergraduate projects
 - [jiegec/Projects](https://github.com/jiegec/Projects) - A summary of my projects
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
