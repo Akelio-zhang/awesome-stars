@@ -21,6 +21,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [MLIR](#mlir)
@@ -108,7 +109,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3496 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3506 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -231,6 +232,7 @@
 
 ## HTML 
 
+- [NJUDeepEngine/llm-course-lecture](https://github.com/NJUDeepEngine/llm-course-lecture) - 
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [storage-db/ToolDiy](https://github.com/storage-db/ToolDiy) - 一本工具指南和开箱即用配置，旨在让大家选用和上手合适的工具。
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
@@ -337,6 +339,10 @@
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes) - ✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）、分布式系统（MIT6.824）等
+
+## Kotlin 
+
+- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Docu
 
 ## LLVM 
 
@@ -463,6 +469,7 @@
 
 ## Python 
 
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [mocobeta/janome](https://github.com/mocobeta/janome) - Japanese morphological analysis engine written in pure Python
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
