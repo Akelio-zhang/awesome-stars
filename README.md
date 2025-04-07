@@ -259,7 +259,7 @@
 
 ## Handlebars 
 
-- [weijiew/everystep](https://github.com/weijiew/everystep) - 🚀 写点笔记、踩坑记录
+- [jieway/everystep](https://github.com/jieway/everystep) - 🚀 写点笔记、踩坑记录
 
 ## Java 
 
