@@ -670,7 +670,7 @@
 
 ## TypeScript 
 
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - BongoCat 是一个可爱地互动桌面宠物应用，让你的桌面充满乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
