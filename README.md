@@ -110,7 +110,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3580 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3586 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -264,7 +264,6 @@
 
 ## Java 
 
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.
 - [franz1981/Netty-VirtualThread-Scheduler](https://github.com/franz1981/Netty-VirtualThread-Scheduler) - A novel integration between Netty and Virtual Threads
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library
@@ -474,6 +473,7 @@
 
 ## Python 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.
 - [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
 - [wzhe06/SparrowRecSys](https://github.com/wzhe06/SparrowRecSys) - A Deep Learning Recommender System
 - [KaihuaTang/Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch) - 该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。
