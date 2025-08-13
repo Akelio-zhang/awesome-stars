@@ -482,7 +482,7 @@
 - [ByteDance-Seed/Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B) - 
 - [ByteDance-Seed/EvaLearn](https://github.com/ByteDance-Seed/EvaLearn) - EvaLearn is a pioneering benchmark designed to evaluate large language models (LLMs) on their learning capability and efficiency in challenging tasks.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for deve
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
 - [wzhe06/SparrowRecSys](https://github.com/wzhe06/SparrowRecSys) - A Deep Learning Recommender System
 - [KaihuaTang/Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch) - 该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。
