@@ -17,13 +17,13 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
-- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -258,10 +258,6 @@
 
 - [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris) - 计算机系统要素，从零开始构建现代计算机
 
-## Handlebars 
-
-- [weiox/everystep](https://github.com/weiox/everystep) - 🚀 写点笔记、踩坑记录
-
 ## Java 
 
 - [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e) - An easy-to-learn/use static analysis framework for Java
@@ -363,6 +359,10 @@
 - [gin-18/nvim](https://github.com/gin-18/nvim) - my neovim config for web development.
 - [ejoy/vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine
+
+## MDX 
+
+- [weiox/everystep](https://github.com/weiox/everystep) - 🚀 写点笔记、踩坑记录
 
 ## MLIR 
 
@@ -479,6 +479,7 @@
 
 ## Python 
 
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
