@@ -95,7 +95,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ghaiklor/llvm-kaleidoscope](https://github.com/ghaiklor/llvm-kaleidoscope) - LLVM Tutorial: Kaleidoscope (Implementing a Language with LLVM)
-- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [neil3d/50YearsOfRayTracing](https://github.com/neil3d/50YearsOfRayTracing) - 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB's BusTub system)
@@ -235,7 +235,6 @@
 
 ## HTML 
 
-- [NJUDeepEngine/llm-course-lecture](https://github.com/NJUDeepEngine/llm-course-lecture) - 
 - [storage-db/ToolDiy](https://github.com/storage-db/ToolDiy) - 一本工具指南和开箱即用配置，旨在让大家选用和上手合适的工具。
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -329,6 +328,7 @@
 - [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
+- [NJUDeepEngine/llm-course-lecture](https://github.com/NJUDeepEngine/llm-course-lecture) - 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [DoodleBears/split-lang](https://github.com/DoodleBears/split-lang) - ✨ Split text by languages (e.g. 你喜欢看アニメ吗 -&gt; 你喜欢看 | アニメ | 吗) for NLP tasks (e.g. parse, TTS). Powered by fasttext and budoux
