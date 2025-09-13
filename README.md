@@ -478,6 +478,7 @@
 
 ## Python 
 
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
