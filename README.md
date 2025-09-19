@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [lonng/db-papers](https://github.com/lonng/db-papers) - A list papers of learning how to building database system
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
