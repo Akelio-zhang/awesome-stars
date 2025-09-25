@@ -479,6 +479,7 @@
 
 ## Python 
 
+- [Emericen/tiny-qwen](https://github.com/Emericen/tiny-qwen) - A minimal, easy-to-read PyTorch reimplementation of the Qwen3 and Qwen2.5 VL with a fancy CLI
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
