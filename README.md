@@ -479,6 +479,7 @@
 
 ## Python 
 
+- [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [Emericen/tiny-qwen](https://github.com/Emericen/tiny-qwen) - A minimal, easy-to-read PyTorch reimplementation of the Qwen3 and Qwen2.5 VL with a fancy CLI
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
@@ -509,7 +510,7 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [itlubber/scorecardpipeline](https://github.com/itlubber/scorecardpipeline) - scorecardpipeline封装常用的风控策略分析和评分卡建模相关组件，支持pipeline式端到端评分卡建模、三方数据分析、规则集效果评估、特征有效性分析、excel报告输出、评分卡PMML导出、全流程超参数搜索等功能。核心功能：评分卡，策略分析，风控，规则挖掘，特征筛选，自动分箱
-- [Akimio521/AutoFilm](https://github.com/Akimio521/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
+- [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [Yuliang-Liu/Monkey](https://github.com/Yuliang-Liu/Monkey) - Monkey (LMM): Image Resolution and Text Label Are Important Things for Large Multi-modal Models (CVPR 2024 Highlight)
@@ -731,7 +732,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension to link DocSearch and Meilisearch.
+- [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension to link DocSearch, Meilisearch and Trieve.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
