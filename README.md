@@ -398,6 +398,7 @@
 
 ## Others 
 
+- [NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN](https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN) - 计算机图形学 虎书 Fundamentals-Of-Computer-Graphics 第5版学习笔记（中文翻译）
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
