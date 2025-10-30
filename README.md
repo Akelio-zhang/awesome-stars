@@ -99,7 +99,7 @@
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [neil3d/50YearsOfRayTracing](https://github.com/neil3d/50YearsOfRayTracing) - 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - A Vector Database Tutorial (over CMU-DB's BusTub system)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [xUhEngwAng/912-notes](https://github.com/xUhEngwAng/912-notes) - 清华大学计算机系考研专业课 (912) 笔记
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
