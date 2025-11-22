@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [lonng/db-papers](https://github.com/lonng/db-papers) - A list papers of learning how to building database system
@@ -662,7 +663,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [yuchanns/dotfiles](https://github.com/yuchanns/dotfiles) - one's dot files collection
 - [CH3NGYZ/tailscale-openwrt](https://github.com/CH3NGYZ/tailscale-openwrt) - tailscale on openwrt 一键部署脚本
