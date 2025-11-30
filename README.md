@@ -112,7 +112,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3749 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3758 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -393,6 +393,7 @@
 
 ## Others 
 
+- [sgl-project/sgl-learning-materials](https://github.com/sgl-project/sgl-learning-materials) - Materials for learning SGLang
 - [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 - [NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN](https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN) - 计算机图形学 虎书 Fundamentals-Of-Computer-Graphics 第5版学习笔记（中文翻译）
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息
