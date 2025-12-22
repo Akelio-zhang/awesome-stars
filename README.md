@@ -560,6 +560,7 @@
 
 ## Rust 
 
+- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [nubskr/walrus](https://github.com/nubskr/walrus) - 🦭 High Performance kafka alternative written in rust
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
