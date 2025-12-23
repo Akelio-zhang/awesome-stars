@@ -474,7 +474,7 @@
 
 ## Python 
 
-- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - 
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS.
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [Emericen/tiny-qwen](https://github.com/Emericen/tiny-qwen) - A minimal PyTorch re-implementation of Qwen3 VL with a fancy CLI
