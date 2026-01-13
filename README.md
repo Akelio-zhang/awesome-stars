@@ -112,7 +112,7 @@
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3802 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3806 LeetCode Problems (Weekly Update)
 - [roodkcab/gacpass](https://github.com/roodkcab/gacpass) - a password management software using GacUI.
 - [JudgeDuck/JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
@@ -750,7 +750,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 - [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2)
