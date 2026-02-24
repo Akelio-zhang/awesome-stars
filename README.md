@@ -482,6 +482,7 @@
 
 ## Python 
 
+- [moona3k/mlx-qwen3-asr](https://github.com/moona3k/mlx-qwen3-asr) - Qwen3-ASR speech recognition on Apple Silicon via MLX
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
