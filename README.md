@@ -527,7 +527,7 @@
 - [mocobeta/janome](https://github.com/mocobeta/janome) - Japanese morphological analysis engine written in pure Python
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [itlubber/scorecardpipeline](https://github.com/itlubber/scorecardpipeline) - scorecardpipeline封装常用的风控策略分析和评分卡建模相关组件，支持pipeline式端到端评分卡建模、三方数据分析、规则集效果评估、特征有效性分析、excel报告输出、评分卡PMML导出、全流程超参数搜索等功能。核心功能：评分卡，策略分析，风控，规则挖掘，特征筛选，自动分箱
 - [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
@@ -584,6 +584,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
