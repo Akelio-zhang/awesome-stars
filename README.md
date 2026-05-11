@@ -55,6 +55,7 @@
 
 ## C 
 
+- [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [ksco/rvemu](https://github.com/ksco/rvemu) - A simple and fast RISC-V JIT emulator.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
