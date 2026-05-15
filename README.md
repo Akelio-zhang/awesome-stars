@@ -605,6 +605,7 @@
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [Inokinoki/ai-no-jimaku-gumi](https://github.com/Inokinoki/ai-no-jimaku-gumi) - AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for "Lessons Learned from Building a Query Optimizer" blog series
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
@@ -819,7 +820,6 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [kristoff-it/kristos](https://github.com/kristoff-it/kristos) - A minimal OS implemented following "Operating system in 1000 lines of code"
 
 
