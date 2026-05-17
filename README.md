@@ -513,7 +513,6 @@
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Relaxed-System-Lab/Flash-Sparse-Attention](https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention) - 🚀🚀 Efficient implementations of Native Sparse Attention
-- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [alibaba/ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [ByteDance-Seed/Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B) - 
@@ -744,7 +743,7 @@
 
 ## TypeScript 
 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -754,7 +753,7 @@
 - [dream-num/obsidian-univer](https://github.com/dream-num/obsidian-univer) - Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [yusukebe/url-shortener](https://github.com/yusukebe/url-shortener) - Creating URL Shortener with Cloudflare Pages
