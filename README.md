@@ -493,7 +493,7 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 - [GAIR-NLP/ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch) - AlphaGo Moment for Model Architecture Discovery.
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers in latex, especially arxiv papers
@@ -657,7 +657,7 @@
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [flaribbit/bakadict](https://github.com/flaribbit/bakadict) - 离线的命令行日语词典
 - [Ko-oK-OS/xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) - 🦀️ Reimplement xv6-riscv in Rust!
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
 - [rcore-os/RVM](https://github.com/rcore-os/RVM) - Rcore Virtual Machine
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
