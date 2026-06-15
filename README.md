@@ -537,7 +537,6 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [itlubber/scorecardpipeline](https://github.com/itlubber/scorecardpipeline) - scorecardpipeline封装常用的风控策略分析和评分卡建模相关组件，支持pipeline式端到端评分卡建模、三方数据分析、规则集效果评估、特征有效性分析、excel报告输出、评分卡PMML导出、全流程超参数搜索等功能。核心功能：评分卡，策略分析，风控，规则挖掘，特征筛选，自动分箱
-- [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations for emerging model architectures
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [Yuliang-Liu/Monkey](https://github.com/Yuliang-Liu/Monkey) - Monkey (LMM): Image Resolution and Text Label Are Important Things for Large Multi-modal Models (CVPR 2024 Highlight)
@@ -614,6 +613,7 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [skyzh/optimizer-lessons](https://github.com/skyzh/optimizer-lessons) - Code for "Lessons Learned from Building a Query Optimizer" blog series
+- [AkimioJR/AutoFilm](https://github.com/AkimioJR/AutoFilm) - 一个为Emby、Jellyfin提供生成strm、动漫追番、绘制媒体库海报的小工具
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
