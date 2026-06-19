@@ -364,6 +364,7 @@
 
 ## Lua 
 
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 - [gin-18/nvim](https://github.com/gin-18/nvim) - my neovim config for web development.
 - [ejoy/vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
