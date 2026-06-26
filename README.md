@@ -174,7 +174,7 @@
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [gobyexample-cn/gobyexample](https://github.com/gobyexample-cn/gobyexample) - Go by Example 通过例子学 Golang
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
