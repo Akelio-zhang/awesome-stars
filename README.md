@@ -579,7 +579,6 @@
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -805,6 +804,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
