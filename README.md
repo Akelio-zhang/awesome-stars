@@ -647,7 +647,7 @@
 - [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) - build vector database extensions over Apache Datafusion and CMU-DB's BusTub system
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [lnx-search/datacake](https://github.com/lnx-search/datacake) - Tooling for creating your own distributed systems.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [dancrossnyc/rxv64](https://github.com/dancrossnyc/rxv64) - xv6 OS
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
