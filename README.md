@@ -308,6 +308,7 @@
 
 ## JavaScript 
 
+- [adithya-s-k/FineEnvs](https://github.com/adithya-s-k/FineEnvs) - FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [mebeim/linux-syscalls](https://github.com/mebeim/linux-syscalls) - 🌐🐧 Browsable Linux kernel syscall tables built with Systrack (https://github.com/mebeim/systrack)
