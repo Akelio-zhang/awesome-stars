@@ -101,7 +101,7 @@
 - [neil3d/50YearsOfRayTracing](https://github.com/neil3d/50YearsOfRayTracing) - 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [xUhEngwAng/912-notes](https://github.com/xUhEngwAng/912-notes) - 清华大学计算机系考研专业课 (912) 笔记
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
