@@ -494,7 +494,7 @@
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [GAIR-NLP/ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch) - AlphaGo Moment for Model Architecture Discovery.
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
@@ -757,6 +757,7 @@
 
 ## TypeScript 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [motherduckdb/labs](https://github.com/motherduckdb/labs) - Experimental projects from the MotherDuck team.
@@ -798,6 +799,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension to link DocSearch, Meilisearch and Trieve.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -835,7 +837,6 @@
 ## Vue 
 
 - [atinux/atinotes](https://github.com/atinux/atinotes) - An editable website with universal rendering on the edge.
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## Zig 
