@@ -742,7 +742,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
-- [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 
 ## TeX 
 
