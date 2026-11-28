@@ -120,6 +120,7 @@
 
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+- [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 
@@ -472,7 +473,6 @@
 - [jiegec/Projects](https://github.com/jiegec/Projects) - A summary of my projects
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-- [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 
